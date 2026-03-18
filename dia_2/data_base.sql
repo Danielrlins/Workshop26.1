@@ -3,7 +3,8 @@ USE desafio;
 CREATE TABLE vendedores (
     id_vendedor INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,
-    cidade VARCHAR(50)
+    cidade VARCHAR(50),
+    telefone VARCHAR(50)
 );
 
 CREATE TABLE vendas (

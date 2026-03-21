@@ -1,0 +1,28 @@
+A partir da análise do dashboard desenvolvido no Power BI, 
+foi possível identificar padrões relevantes no perfil dos pacientes avaliados, 
+com foco em fatores de risco associados à saúde pulmonar.
+
+Visão geral:
+-Total de pacientes analisados: 855
+-Idade média: 49 anos
+-Predominância de pacientes em faixa etária adulta
+
+Prevalencia de Risco: 
+-18% dos pacientes apresentam risco de câncer de pulmão
+-82% não apresentam risco
+-Aproximadamente 1 em cada 5 pacientes está em situação de atenção
+
+Riscos por Sexo
+-Diferença na distribuição de risco entre homens e mulheres
+-Possível influência de fatores comportamentais e biológicos
+-Sugere análise mais aprofundada por perfil demográfico
+
+Idade x Risco
+-Tendência de aumento do risco com o avanço da idade
+-Maior concentração de casos em pacientes mais velhos
+-Reforça a importância de monitoramento contínuo
+
+Conclusões finais:
+A idade juntamente com o tabagismo são indicadores determinantes na identificação de uma pessoa com possíveis riscos de desenvolver
+doenças pulmonares, por isso é necessário a prioridade total da atenção médica sendo voltada para essas pessoas
+

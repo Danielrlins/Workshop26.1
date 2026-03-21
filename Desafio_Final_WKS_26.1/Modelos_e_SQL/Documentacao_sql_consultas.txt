@@ -1,0 +1,137 @@
+Analise das Consultas
+
+Tabela Cliente
+
+Consulta 1: Clientes cadastrados por mês
+O que mostrou:
+A quantidade de clientes cadastrados em cada mês.
+
+Insights:
+Permite identificar períodos de maior crescimento da base de clientes.
+Exemplo: se há mais cadastros em determinados meses, pode indicar campanhas eficazes ou sazonalidade.
+(Investir mais em marketing nos meses de maior retorno / Criar promoções em meses com baixa adesão )
+
+Consulta 2: Idade média dos clientes
+O que mostrou:
+A média de idade dos clientes cadastrados.
+
+Insights: Ajuda a entender o perfil do público da empresa. (Direcionar campanhas para o público predominante /Escolher veículos mais adequados ao perfil dos clientes)
+
+--------------------------------------------------------------------------------------------------
+
+Tabela Funcionario 
+
+Consulta 1: Média salarial por cargo
+O que mostrou:
+A média de salário para cada cargo na empresa.
+
+Insights: Permite avaliar se há equilíbrio salarial entre funções. (Ajustar salários para manter competitividade / Identificar possíveis desigualdades internas)
+
+
+Consulta 2: Maior salário
+O que mostrou:
+O maior salário pago na empresa.
+
+Insight:
+Ajuda a entender o teto salarial da organização(Planejamento financeiro / Definição de políticas salariais )
+
+--------------------------------------------------------------------------------------------------
+
+Tabela Veiculo
+
+Consulta 1: Quantidade por status
+O que mostrou:
+Número de veículos disponíveis, alugados e em manutenção.
+
+Insight:
+Permite visualizar a situação da frota.(Identificar falta de veículos disponíveis / Planejar manutenção sem afetar a operação )
+
+Consulta 2: Valor médio da diária
+O que mostrou:
+Preço médio de aluguel dos veículos.
+
+Insight:Ajuda a entender o posicionamento de preço da empresa (Ajustar preços para aumentar competitividade/ Comparar com concorrentes)
+
+--------------------------------------------------------------------------------------------------
+
+Tabela Contrato
+
+Consulta 1: Faturamento por status
+O que mostrou:
+Quanto foi faturado em contratos ativos, finalizados ou atrasados.
+
+Insight:Permite identificar receitas e possíveis perdas. (Monitorar contratos atrasados/ Melhorar cobrança )
+
+Consulta 2: Maior valor de aluguel
+O que mostrou:
+O contrato com maior valor registrado.
+
+Insight:
+Indica o potencial máximo de receita por aluguel. ( Criar estratégias para aumentar ticket médio/ Focar em veículos mais rentáveis)
+
+--------------------------------------------------------------------------------------------------
+
+Tabela Pagamento
+
+Consulta 1: Total por forma de pagamento
+O que mostrou:
+Quanto foi pago via pix, cartão ou boleto.
+
+Insight:
+Mostra a preferência dos clientes. ( Incentivar métodos mais usados/ Reduzir custos operacionais )
+
+Consulta 2: Pagamentos por status
+O que mostrou:
+Quantidade de pagamentos pendentes, concluídos e cancelados
+
+Insight:
+Permite identificar inadimplência. (Criar alertas de cobrança/ Melhorar controle financeiro )
+
+--------------------------------------------------------------------------------------------------
+
+Tabela Manutenção
+
+Consulta 1: Custo por tipo de manutenção
+O que mostrou:
+Total gasto em manutenções preventivas e corretivas.
+
+Insight: Ajuda a entender onde a empresa mais gasta.( Investir mais em manutenção preventiva/ Reduzir custos com reparos emergenciais )
+
+Consulta 2: Maior custo de manutenção
+O que mostrou:
+A manutenção mais cara registrada.
+
+Insight:
+Identifica possíveis problemas recorrentes em veículos.( Avaliar substituição de veículos / Melhorar controle de manutenção )
+
+--------------------------------------------------------------------------------------------------
+
+JOINS
+
+Consulta 1: Contratos com clientes 
+O que mostrou:
+Quais clientes realizaram contratos.
+
+Insight: Permite identificar clientes ativos.(Fidelização de clientes/ Programas de desconto )
+
+Consulta 2: Contratos completos
+O que mostrou:
+Cliente, veículo e funcionário envolvidos no aluguel.
+
+Insight: Visão completa da operação.( Avaliar desempenho de funcionários /Identificar veículos mais alugados )
+
+Consulta 3: Veículos e manutenção
+O que mostrou:
+Veículos com ou sem manutenção registrada.
+
+Insight: Permite identificar veículos sem histórico de manutenção. ( Planejar revisões preventivas / Evitar falhas futuras)
+
+
+
+
+
+
+
+
+
+
